@@ -1,0 +1,3 @@
+services/webserver-cluster/.terraform.lock.hcl
+services/webserver-cluster/.terraform/providers/registry.terraform.io/hashicorp/aws/5.39.1/linux_amd64/terraform-provider-aws_v5.39.1_x5
+services/webserver-cluster/.terraform/terraform.tfstate
